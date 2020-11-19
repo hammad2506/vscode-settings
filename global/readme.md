@@ -1,9 +1,11 @@
-### Install beautify extension for vscode
+### Global VSCODE Settings
 
-### Open VSCODE SETTINGS [settings.json]
+1. Install beautify extension for vscode
+
+2. Open vscode settings from preferences `settings.json`
 
 **Make sure you open the `USER` settings and not the `workspace` settings**
 
-### Copy the contents of the settings.json file into it.
+3. Copy the contents of the settings.json file into it.
 
-## DONE!
+4. DONE!
